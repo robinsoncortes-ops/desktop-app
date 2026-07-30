@@ -108,5 +108,5 @@ t_resultodos.config(bg= "yellow", fg="black", font=("Arial", 28))
 t_resultodos.place(x=10, y=10, width= 460, height=90)
 
 
-# bucle principal
+#bucle principal
 ventana_principal.mainloop()
